@@ -1,0 +1,20 @@
+[user]
+	name = Aurélien Dhollande
+	email = aurelien.dhollande@epita.fr
+[core]
+    #excludesfile = /home/aurelien.dhollande/.gitignore_global
+    editor = vim
+[color]
+	ui = auto
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[commit]
+	verbose = true
+[pull]
+	rebase = true
+[branch]
+	autosetuprebase = always
+[push]
+	default = simple
