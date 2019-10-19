@@ -31,3 +31,6 @@ Generate a default configuration file
 mkdir -p ~/.config/rofi
 rofi -dump-config > ~/.config/rofi/config.rasi
 ```
+
+## Lightdm
+Use lightdm-settings to change the login screen
