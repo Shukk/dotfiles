@@ -34,3 +34,7 @@ rofi -dump-config > ~/.config/rofi/config.rasi
 
 ## Lightdm
 Use lightdm-settings to change the login screen
+
+
+## Keychain
+Install keychain to enhance ssh agent power
