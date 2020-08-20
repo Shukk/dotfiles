@@ -38,3 +38,8 @@ Use lightdm-settings to change the login screen
 
 ## Keychain
 Install keychain to enhance ssh agent power
+
+
+# Windows
+
+For WSL customization, refer to https://medium.com/@hjgraca/style-your-windows-terminal-and-wsl2-like-a-pro-9a2e1ad4c9d0
